@@ -1,1 +1,1 @@
-# computer-networks-sp
+<img src="digital_image_processing/practice/the-waiting-puppy.jpg" align=center alt="A nice puppy">
