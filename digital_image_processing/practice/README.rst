@@ -13,8 +13,9 @@ Digital Image Processing Practices
     img2 = imread("copy.jpeg");
     imshow(img2)
 
-**Output**
+Output
+------
 
-.. image:: basic.png
+.. figure:: basic.png
     :alt: A planet with twilight rings
     :align: center
