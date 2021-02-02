@@ -53,3 +53,5 @@ dkms.conf
 
 # local folders
 .vscode
+*.zip
+*.rar

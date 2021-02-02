@@ -1,0 +1,6 @@
+# ignore everything
+*
+
+# dont ingnore these
+!.gitignore
+!scratch
