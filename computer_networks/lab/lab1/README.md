@@ -2,7 +2,7 @@
 
 ## Files
 
-| File Name | Descroption |
+| File Name | Description |
 | --- | --- |
 | [TCP_client.c](TCP_client.c) | TCP client implementation |
 | [TCP_server.c](TCP_server.c) | TCP server implementation |
@@ -19,7 +19,7 @@
 
 4. Change the input buffer size of the client and the server to 4096. Modify the texts exchanged between the client and the server so that texts of larger length are exchanged.
 
-## Student Detail
+## Student Details
 
 - Name: Avinal Kumar
 - Roll: 185067
