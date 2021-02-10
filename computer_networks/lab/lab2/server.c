@@ -1,5 +1,5 @@
 /**
- * /mnt/z/my_git/sixth-semester/computer_networks/simulation/scratch/server.c
+ * /mnt/z/my_git/sixth-semester/computer_networks/lab/lab2/server.c
  * @author Avinal Kumar
  * @since February 03, 2021
  *
