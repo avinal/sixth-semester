@@ -22,6 +22,11 @@ Peform the following modifications on the first.cc ns3 script:
 9. Start the UDP client at 2 seconds into the start of the simulation 
 10. Stop the UDP client after 25 seconds into the simulation 
 
+## How to run this simulation?
+- You must have a working installation of [ns3](https://www.nsnam.org/)
+- Copy [first.cc](first.cc) to `scratch` directory.
+- Run `./waf --run scratch/first`
+
 
 ## Output
 
