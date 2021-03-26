@@ -1,0 +1,65 @@
+┌─ 😎 [14:05]─[avii@AVINAL]─[/mnt/z/my_git/sixth-semester/computer_networks/simulation] (main)
+└──> ./waf --run scratch/lab/lab
+Waf: Entering directory `/mnt/z/my_git/sixth-semester/computer_networks/simulation/build'
+[1888/1938] Compiling scratch/lab/first.cc
+[1899/1938] Linking build/scratch/lab/lab
+Waf: Leaving directory `/mnt/z/my_git/sixth-semester/computer_networks/simulation/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (2m7.775s)
+* Point to Point UDP Network Simulation
+* Data Rate:             200mbps
+* Transmission Delay:    5ms
+* Base Address:          172.16.1.0
+* UDP Server Start Time: 2 sec
+* UDP Server Stop Time:  25 sec
+* UDP Packet Interval:   1.5 sec
+* Number of packets:     10
+* UDP Packet Size:       2048 bytes
+* UDP Client Start Time: 2 sec
+* UDP Client Stop Time:  25 sec
+
+Default Network Topology
+      10.1.1.0
+n0 -------------- n1
+   point-to-point
+
+At time +2s client sent 2048 bytes to 172.16.1.2 port 9
+At time +2.00508s server received 2048 bytes from 172.16.1.1 port 49153
+At time +2.00508s server sent 2048 bytes to 172.16.1.1 port 49153
+At time +2.01017s client received 2048 bytes from 172.16.1.2 port 9
+At time +3.5s client sent 2048 bytes to 172.16.1.2 port 9
+At time +3.50508s server received 2048 bytes from 172.16.1.1 port 49153
+At time +3.50508s server sent 2048 bytes to 172.16.1.1 port 49153
+At time +3.51017s client received 2048 bytes from 172.16.1.2 port 9
+At time +5s client sent 2048 bytes to 172.16.1.2 port 9
+At time +5.00508s server received 2048 bytes from 172.16.1.1 port 49153
+At time +5.00508s server sent 2048 bytes to 172.16.1.1 port 49153
+At time +5.01017s client received 2048 bytes from 172.16.1.2 port 9
+At time +6.5s client sent 2048 bytes to 172.16.1.2 port 9
+At time +6.50508s server received 2048 bytes from 172.16.1.1 port 49153
+At time +6.50508s server sent 2048 bytes to 172.16.1.1 port 49153
+At time +6.51017s client received 2048 bytes from 172.16.1.2 port 9
+At time +8s client sent 2048 bytes to 172.16.1.2 port 9
+At time +8.00508s server received 2048 bytes from 172.16.1.1 port 49153
+At time +8.00508s server sent 2048 bytes to 172.16.1.1 port 49153
+At time +8.01017s client received 2048 bytes from 172.16.1.2 port 9
+At time +9.5s client sent 2048 bytes to 172.16.1.2 port 9
+At time +9.50508s server received 2048 bytes from 172.16.1.1 port 49153
+At time +9.50508s server sent 2048 bytes to 172.16.1.1 port 49153
+At time +9.51017s client received 2048 bytes from 172.16.1.2 port 9
+At time +11s client sent 2048 bytes to 172.16.1.2 port 9
+At time +11.0051s server received 2048 bytes from 172.16.1.1 port 49153
+At time +11.0051s server sent 2048 bytes to 172.16.1.1 port 49153
+At time +11.0102s client received 2048 bytes from 172.16.1.2 port 9
+At time +12.5s client sent 2048 bytes to 172.16.1.2 port 9
+At time +12.5051s server received 2048 bytes from 172.16.1.1 port 49153
+At time +12.5051s server sent 2048 bytes to 172.16.1.1 port 49153
+At time +12.5102s client received 2048 bytes from 172.16.1.2 port 9
+At time +14s client sent 2048 bytes to 172.16.1.2 port 9
+At time +14.0051s server received 2048 bytes from 172.16.1.1 port 49153
+At time +14.0051s server sent 2048 bytes to 172.16.1.1 port 49153
+At time +14.0102s client received 2048 bytes from 172.16.1.2 port 9
+At time +15.5s client sent 2048 bytes to 172.16.1.2 port 9
+At time +15.5051s server received 2048 bytes from 172.16.1.1 port 49153
+At time +15.5051s server sent 2048 bytes to 172.16.1.1 port 49153
+At time +15.5102s client received 2048 bytes from 172.16.1.2 port 9
